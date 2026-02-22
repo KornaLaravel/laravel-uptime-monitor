@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-uptime-monitor` will be documented in this file
 
+## 4.6.0 - 2026-02-22
+
+Add Laravel 13.x support
+
 ## 4.5.2 - 2026-02-01
 
 ### What's Changed
